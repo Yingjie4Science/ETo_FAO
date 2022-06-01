@@ -37,8 +37,7 @@ h: elevation; (m)
 
 
 **Citation** 
-```
+
 李英杰,延军平,王鹏涛.北方农牧交错带参考作物蒸散量时空变化与成因分析[J].中国农业气象,2016,37(2):166-173
 
 Li, Yingjie., Yan, Junping., Wang, Pengtao. Temporal and spatial change and causes analysis of the reference crop evapotranspiration in Farming-Pastroral Ecotone of Northern China. Chinese Journal of Agrometeorology, 2016, 37(2):166-173.(in Chinese) 
-```
