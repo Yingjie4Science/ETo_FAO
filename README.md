@@ -1,6 +1,8 @@
 # ETo_FAO
 A demo function to calculate Reference evapotranspiration (ETo) according to FAO standards.
 
+FAO Penman-Monteith equation, see details at http://www.fao.org/docrep/x0490e/x0490e06.htm (BOX 6)
+
 
 ## code:
   - `ET_cal_demo.R` is the final code file
