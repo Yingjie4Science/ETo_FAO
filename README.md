@@ -3,7 +3,7 @@ A demo function to calculate Reference evapotranspiration (ETo) according to FAO
 
 
 ## code:
-  - ET_cal_demo.R is the final code file
+  - `ET_cal_demo.R` is the final code file
 
 ## data:
   - folder named '1960-2016' is a collection of meteorological data for 
