@@ -14,7 +14,7 @@ A demo function to calculate Reference evapotranspiration (ETo) according to FAO
 cols <- c('id', 'yy', 'mm', 'dd', 'pre_night', 'pre_day', 'pre', 
           'tem', 'tmax', 'tmin', 't_groundmean','t_groundmax', 't_groundmin', 
           'Tsun', 'wind', 'RH', 'evap_pan', 'long', 'lat', 'h')
-
+```
 id: station id
 yy: year
 mm: month
@@ -31,3 +31,4 @@ evap_pan: evaporation measured in evaporation pan (mm)
 long: longitude
 lat: latitude
 h: elevation; (m)
+```
